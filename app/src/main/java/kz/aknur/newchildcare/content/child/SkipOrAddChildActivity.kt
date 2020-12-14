@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_skip_or_add_child.*
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.child.add.ChildAddActivity
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.sdk27.coroutines.onClick

@@ -11,7 +11,7 @@ import kotlinx.android.synthetic.main.activity_article_list.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.home.articles.ArticleModel
 import kz.aknur.newchildcare.content.home.articles.ArticlesAdapter
 import kz.aknur.newchildcare.content.home.articles.details.ArticleDetailsActivity

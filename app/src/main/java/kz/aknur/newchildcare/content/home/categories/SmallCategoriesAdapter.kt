@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.home.HomeFragment
 import kz.aknur.newchildcare.content.home.categories.models.SmallCategoriesModel
 import kotlin.collections.ArrayList

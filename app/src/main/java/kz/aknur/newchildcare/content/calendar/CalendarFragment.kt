@@ -5,7 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 
 
 class CalendarFragment : Fragment() {

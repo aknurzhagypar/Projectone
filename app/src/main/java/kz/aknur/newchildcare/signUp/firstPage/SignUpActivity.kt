@@ -12,7 +12,7 @@ import kz.aknur.newchildcare.signUp.firstPage.models.SignUpRequest
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.signUp.secondPage.PersonalInformationActivity
 import org.jetbrains.anko.alert
 import org.jetbrains.anko.intentFor

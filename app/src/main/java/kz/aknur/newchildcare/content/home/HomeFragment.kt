@@ -13,7 +13,7 @@ import kotlinx.android.synthetic.main.fragment_home.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.home.articles.list.ArticleListActivity
 import kz.aknur.newchildcare.content.home.categories.LargeCategoriesAdapter
 import kz.aknur.newchildcare.content.home.categories.SmallCategoriesAdapter

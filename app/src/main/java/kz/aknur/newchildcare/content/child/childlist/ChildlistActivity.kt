@@ -11,7 +11,7 @@ import kotlinx.android.synthetic.main.fragment_hospitals.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.FoundationActivity
 import kz.aknur.newchildcare.content.child.add.ChildAddActivity
 import kz.aknur.newchildcare.content.child.childlist.models.ChildModel

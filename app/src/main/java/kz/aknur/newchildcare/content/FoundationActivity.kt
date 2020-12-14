@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import kotlinx.android.synthetic.main.activity_foundation.*
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.articles.FavoriteFragment
 import kz.aknur.newchildcare.content.calendar.CalendarFragment
 import kz.aknur.newchildcare.content.home.HomeFragment

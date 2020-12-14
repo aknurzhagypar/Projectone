@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.activity_second_stage.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.child.SkipOrAddChildActivity
 import kz.aknur.newchildcare.signUp.secondPage.models.CityModel
 import kz.aknur.newchildcare.signUp.secondPage.models.OrganizationsModel

@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.activity_child_add.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.content.child.add.models.ChildAddRequest
 import kz.aknur.newchildcare.content.child.childlist.ChildlistActivity
 import org.jetbrains.anko.alert

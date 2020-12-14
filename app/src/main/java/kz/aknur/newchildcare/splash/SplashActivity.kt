@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import kotlinx.coroutines.*
-import kz.nurbayevnt.newchildcare.R
+import kz.aknur.newchildcare.R
 import kz.aknur.newchildcare.common.helpers.GeneralHelper
 import kz.aknur.newchildcare.content.FoundationActivity
 import kz.aknur.newchildcare.signIn.SignInActivity
